@@ -1,0 +1,2 @@
+# WebInjectScript
+(DO NOT DISTRIBUTE)
